@@ -1,4 +1,4 @@
-# TOOLS KALKULATOR SEDERHANA BY : FILIPI
+# TOOLS KALKULATOR SEDERHANA BY : IMANUEL
 import os
 import time
 os.system("clear")
